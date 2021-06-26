@@ -1,5 +1,5 @@
 # Hackerrank-React-Certification
- # React: Sorting Articles  
+# React: Sorting Articles  
 
 Create a basic article sorting application, as shown below. Some core functionalities have already been implemented, but the application is not complete. Application requirements are given below, and the finished application must pass all of the unit tests.
 
@@ -109,4 +109,6 @@ npm install
 ```bash
 npm test
 ```
+
+<img width="825" alt="Screen Shot 2021-06-26 at 1 05 27 AM" src="https://user-images.githubusercontent.com/42642643/123502448-9c050300-d61a-11eb-9b13-1158600b6942.png">
 
